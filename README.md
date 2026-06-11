@@ -6,6 +6,7 @@
 [Comissão de Valores Imobiliários - CVM](https://www.gov.br/cvm/pt-br)\
 [CVM - publicações](https://www.gov.br/cvm/pt-br/centrais-de-conteudo)\
 [CVM - Livros](https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/livros-cvm)\
+[Tesouro Direto](https://www.gov.br/tesouronacional/pt-br)\
 [Tesouro Nacional Transparente](https://www.tesourotransparente.gov.br/)\
 [Tesouro Nacional Transparente - publicações](https://www.tesourotransparente.gov.br/@@search?SearchableText=)\
 [Clube dos Poupadores](https://clubedospoupadores.com/)
