@@ -3,6 +3,7 @@
 ## Links
 [Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais - ANBIMA](https://www.anbima.com.br/pt_br/index.htm)\
 [ANBIMA - Dados e publicações](https://data.anbima.com.br/)\
+[ANBIMA - Cursos](https://anbimaedu.com.br/certificacoes)\
 [B3](https://www.b3.com.br/)\
 [B3 - Dados](https://www.b3.com.br/pt_br/dados/)\
 [Comissão de Valores Imobiliários - CVM](https://www.gov.br/cvm/pt-br)\
