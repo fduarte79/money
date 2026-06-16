@@ -17,3 +17,7 @@
 ## Cursos
 [ANBIMA - Cursos](https://anbimaedu.com.br/certificacoes)\
 [Investidor Mestre 3.0](https://investidormestre.com.br/)
+
+## Livros
+SAMANEZ, Carlos Patrício Mercado. **Matemática financeira**. 5. ed. São Paulo, SP: Pearson, 2010. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 16 jun 2026.\
+ÁVILA, Leandro. Como investir em Títulos Públicos: guia definitivo do básico ao avançado. Fortaleza, 2026. E-book.
