@@ -19,6 +19,7 @@
 [Investidor Mestre 3.0](https://investidormestre.com.br/)
 
 ## Livros
-+ SAMANEZ, C. P. M. **Matemática financeira**. 5. ed. São Paulo, SP: Pearson, 2010. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 16 jun 2026.\
-+ ÁVILA, L. Como Investir em Títulos Públicos: guia definitivo do básico ao avançado. Fortaleza, 2026. E-book.\
-+ SHIKIDA, C.D.; FERNANDES, R. **Notas Introdutórias em Econometria Aplicada Usando R/RStudio**. Eb--ok. Disponível em: https://wp.ufpel.edu.br/cdshikida/files/2016/10/MinicursoEconometriaRStudio.pdf. Acesso em 16 jun 2026.
++ SAMANEZ, C. P. M. **Matemática financeira**. 5. ed. São Paulo, SP: Pearson, 2010. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 16 jun 2026.
++ ÁVILA, L. Como Investir em Títulos Públicos: guia definitivo do básico ao avançado. Fortaleza, 2026. E-book.
++ SHIKIDA, C.D.; FERNANDES, R. **Notas Introdutórias em Econometria Aplicada Usando R/RStudio**. E-book. Disponível em: https://wp.ufpel.edu.br/cdshikida/files/2016/10/MinicursoEconometriaRStudio.pdf. Acesso em 16 jun 2026.
++ COUTINHO, d. **R: Uma Introdução para economistas** E-book. Disponível em: https://danmrc.github.io/R-para-Economistas/index.html
